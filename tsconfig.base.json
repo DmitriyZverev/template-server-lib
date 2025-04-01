@@ -1,0 +1,7 @@
+{
+  "extends": "@dmitriyzverev/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2024",
+    "module": "NodeNext"
+  }
+}
